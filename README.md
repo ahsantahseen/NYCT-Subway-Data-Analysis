@@ -124,7 +124,7 @@
 
 ---
 
-## **Poster Visuals (Recommended)**
+## **Poster Visuals (Included)**
 1. **Heatmap** of NYC ridership density  
 2. **Animated bar chart** of OMNY vs. Metrocard growth (Jan–Mar)  
 3. **Side-by-side comparison** of busiest vs. least-used stations  
